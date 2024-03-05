@@ -3,9 +3,9 @@ import asyncio
 
 from pyrogram import Client
 
-name = "Nikki"
-api_id = 19181985
-api_hash = "a2b23ca3a1c9b5dab4bf42dda7de4e79"
+name = "Chirag"
+api_id = 26304023
+api_hash = "25099b7a853c74b8d62069d444bcd88b"
 
 
 async def init():
@@ -16,11 +16,11 @@ async def init():
         api_hash=api_hash
     ) as app:
         session = await app.export_session_string()
-        caption = f"**🥀 Your Pyrogram V2 String Session Is Here ✨...**\n\n`{session}`\n\n**©️ @NikkiAssociation**"
+        caption = f"**🥀 Your Pyrogram V2 String Session Is Here ✨...**\n\n`{session}`\n\n**©️ @enjoybuddiiee**"
         try:
-            await app.join_chat("NikkiAssociation")
-            await app.join_chat("NikkiSupportChat")
-            await app.send_message("NikkiSupportChat", "**Thank You For Your String\nGenerator Repository.**")
+            await app.join_chat("noo")
+            await app.join_chat("naah")
+            await app.send_message("Noochat", "**Thank You For Your String\nGenerator Repository.**")
         except:
             pass
         try:
