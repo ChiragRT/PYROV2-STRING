@@ -1,5 +1,5 @@
 ## 🥀 PYROGRAM STRING-SESSION GENERATOR VERSION 2.0 PREMIUM ✨...
-<p align="center"><a href="https://t.me/NikkiAssociation"><img src="https://telegra.ph/file/9b01d87b9d4938ac0d80a.jpg"></a></p>
+<p align="center"><a href="https://t.me/testing_join"><img src="https://telegra.ph/file/9b01d87b9d4938ac0d80a.jpg"></a></p>
 
 
 This is a Simple Pyrogram String Session Generator Repository, You Can Generate String Session Through Termux Using This Repository For Your Telegram Account.
